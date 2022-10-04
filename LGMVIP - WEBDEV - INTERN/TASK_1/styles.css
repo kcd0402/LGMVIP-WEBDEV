@@ -1,0 +1,34 @@
+ h1{
+    text-align: center;
+    color: yellow;
+}
+input[type="text"]{
+    padding: 20px 130px;
+    background-color: yellow;
+}
+input[type="button"]{
+    padding: 20px 30px;
+    background-color: yellow;
+}
+#eleStyle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+P{
+    font-size: 30px;
+    border-bottom: 1px solid yellow;
+    width: 400px;
+    color: yellow;
+}
+button{
+    padding: 15px 20px;
+    background-color: yellow;
+    margin-left: 10px;
+    border-radius: 30px;
+}
+.divEleID{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
